@@ -1,15 +1,15 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-25 02:07:39
+# UPDATED: 2021-09-27 02:08:55
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 51
-# DOMAIN-SUFFIX: 33480
+# DOMAIN-SUFFIX: 33493
 # USER-AGENT: 48
 # DOMAIN-KEYWORD: 41
 # IP-CIDR: 128
 # URL-REGEX: 1
-# TOTAL: 33749
+# TOTAL: 33762
 amp.akamaized.net
 api-p.videomarket.jp
 apple.com.akadns.net
@@ -1343,6 +1343,7 @@ www.icloud.com
 .4everproxy.com
 .4freemam.myfw.us
 .4freeproxy.com
+.4gtv.tv
 .4irc.com
 .4jok.com
 .4musclemen.com
@@ -1498,7 +1499,6 @@ www.icloud.com
 .54647.global
 .54647.io
 .54647.online
-.54647.org
 .54647.xyz
 .546990.com
 .5482562.com
@@ -3677,6 +3677,7 @@ www.icloud.com
 .api1.sg8888.ws
 .api17tp.apitilt.com
 .apiary.io
+.apibay.org
 .apic.pinnacle.com
 .apigame.yunbo11.com
 .apigame.yunbo333.com
@@ -5084,6 +5085,7 @@ www.icloud.com
 .benchworkforce.com.au
 .benditabreja.com.br
 .benjibot.xyz
+.benliton.com
 .bennyp.net
 .bentley
 .bentobox.tv
@@ -7474,6 +7476,8 @@ www.icloud.com
 .ck.spacetechnology.net
 .ck10019.cc
 .ck101.com
+.ckcdn.com
+.ckck.fun
 .ckw77.com
 .cl
 .cl.eye.rs
@@ -16392,6 +16396,7 @@ www.icloud.com
 .lecanardenchaine.fr
 .leclerc
 .lecloud.net
+.lecoin.cc
 .lede-project.org
 .ledongzhibo111.com
 .ledongzhibo1111.com
@@ -16884,6 +16889,7 @@ www.icloud.com
 .lovemov.cc
 .lovemyanime.net
 .loveofkuanyin.com
+.loveparents.org
 .lovesexdurex.com
 .lovethiscity.com
 .lovetibet.ti-da.net
@@ -19676,6 +19682,7 @@ www.icloud.com
 .ny1.com
 .nyaa.com
 .nyaa.eu
+.nyaa.net
 .nyaa.si
 .nyahentai.com
 .nyam1380.com
@@ -20865,6 +20872,7 @@ www.icloud.com
 .piratebayproxy.co
 .piratebrowser.com
 .piratelist.org
+.pirates-forum.org
 .piriform.com
 .piring.com
 .pise.pw
@@ -21471,6 +21479,8 @@ www.icloud.com
 .pts.org.tw
 .ptt.cc
 .ptt.com
+.ptt2.cc
+.ptt3.cc
 .pttgame.com
 .pttgopolitics.com
 .pttvan.org
@@ -25265,6 +25275,7 @@ www.icloud.com
 .torrentz.eu
 .torrentz2.eu
 .torrentz2.is
+.torrindex.net
 .torss.cf
 .torvpn.com
 .toshiba
@@ -27178,6 +27189,8 @@ www.icloud.com
 .wannaflix.com
 .wanokokorosoh.com
 .want-daily.com
+.want-media.com
+.wantblogger.com
 .wanyepu.com
 .wanz-factory.com
 .wap.xinbao6.net
@@ -28224,7 +28237,6 @@ www.icloud.com
 .www.494hu.com
 .www.4bc.cc
 .www.4bc.com.au
-.www.4gtv.tv
 .www.4hu.com
 .www.4hu54.com
 .www.4hu55.com
@@ -33484,6 +33496,7 @@ www.icloud.com
 .zurama.ru
 .zvereff.com
 .zw
+.zwtvusa.com
 .zx-fly.com
 .zyd.jygweb.org
 .zynaima.com

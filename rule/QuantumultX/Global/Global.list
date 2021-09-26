@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-25 02:07:37
+# UPDATED: 2021-09-27 02:08:52
 # HOST: 51
-# HOST-SUFFIX: 33480
+# HOST-SUFFIX: 33493
 # USER-AGENT: 48
 # HOST-KEYWORD: 41
 # IP-CIDR: 128
 # IP6-CIDR: 3
-# TOTAL: 33751
+# TOTAL: 33764
 HOST,amp.akamaized.net,Global
 HOST,api-p.videomarket.jp,Global
 HOST,apple.com.akadns.net,Global
@@ -1342,6 +1342,7 @@ HOST-SUFFIX,4ebaytraders.com,Global
 HOST-SUFFIX,4everproxy.com,Global
 HOST-SUFFIX,4freemam.myfw.us,Global
 HOST-SUFFIX,4freeproxy.com,Global
+HOST-SUFFIX,4gtv.tv,Global
 HOST-SUFFIX,4irc.com,Global
 HOST-SUFFIX,4jok.com,Global
 HOST-SUFFIX,4musclemen.com,Global
@@ -1497,7 +1498,6 @@ HOST-SUFFIX,5462.com,Global
 HOST-SUFFIX,54647.global,Global
 HOST-SUFFIX,54647.io,Global
 HOST-SUFFIX,54647.online,Global
-HOST-SUFFIX,54647.org,Global
 HOST-SUFFIX,54647.xyz,Global
 HOST-SUFFIX,546990.com,Global
 HOST-SUFFIX,5482562.com,Global
@@ -3676,6 +3676,7 @@ HOST-SUFFIX,api1.sg888.net,Global
 HOST-SUFFIX,api1.sg8888.ws,Global
 HOST-SUFFIX,api17tp.apitilt.com,Global
 HOST-SUFFIX,apiary.io,Global
+HOST-SUFFIX,apibay.org,Global
 HOST-SUFFIX,apic.pinnacle.com,Global
 HOST-SUFFIX,apigame.yunbo11.com,Global
 HOST-SUFFIX,apigame.yunbo333.com,Global
@@ -5083,6 +5084,7 @@ HOST-SUFFIX,benchprep.org,Global
 HOST-SUFFIX,benchworkforce.com.au,Global
 HOST-SUFFIX,benditabreja.com.br,Global
 HOST-SUFFIX,benjibot.xyz,Global
+HOST-SUFFIX,benliton.com,Global
 HOST-SUFFIX,bennyp.net,Global
 HOST-SUFFIX,bentley,Global
 HOST-SUFFIX,bentobox.tv,Global
@@ -7473,6 +7475,8 @@ HOST-SUFFIX,ck.juicyads.com,Global
 HOST-SUFFIX,ck.spacetechnology.net,Global
 HOST-SUFFIX,ck10019.cc,Global
 HOST-SUFFIX,ck101.com,Global
+HOST-SUFFIX,ckcdn.com,Global
+HOST-SUFFIX,ckck.fun,Global
 HOST-SUFFIX,ckw77.com,Global
 HOST-SUFFIX,cl,Global
 HOST-SUFFIX,cl.eye.rs,Global
@@ -16391,6 +16395,7 @@ HOST-SUFFIX,lebtimnetz.de,Global
 HOST-SUFFIX,lecanardenchaine.fr,Global
 HOST-SUFFIX,leclerc,Global
 HOST-SUFFIX,lecloud.net,Global
+HOST-SUFFIX,lecoin.cc,Global
 HOST-SUFFIX,lede-project.org,Global
 HOST-SUFFIX,ledongzhibo111.com,Global
 HOST-SUFFIX,ledongzhibo1111.com,Global
@@ -16883,6 +16888,7 @@ HOST-SUFFIX,lovemarca.com,Global
 HOST-SUFFIX,lovemov.cc,Global
 HOST-SUFFIX,lovemyanime.net,Global
 HOST-SUFFIX,loveofkuanyin.com,Global
+HOST-SUFFIX,loveparents.org,Global
 HOST-SUFFIX,lovesexdurex.com,Global
 HOST-SUFFIX,lovethiscity.com,Global
 HOST-SUFFIX,lovetibet.ti-da.net,Global
@@ -19675,6 +19681,7 @@ HOST-SUFFIX,nxta.org,Global
 HOST-SUFFIX,ny1.com,Global
 HOST-SUFFIX,nyaa.com,Global
 HOST-SUFFIX,nyaa.eu,Global
+HOST-SUFFIX,nyaa.net,Global
 HOST-SUFFIX,nyaa.si,Global
 HOST-SUFFIX,nyahentai.com,Global
 HOST-SUFFIX,nyam1380.com,Global
@@ -20864,6 +20871,7 @@ HOST-SUFFIX,piratebay.com,Global
 HOST-SUFFIX,piratebayproxy.co,Global
 HOST-SUFFIX,piratebrowser.com,Global
 HOST-SUFFIX,piratelist.org,Global
+HOST-SUFFIX,pirates-forum.org,Global
 HOST-SUFFIX,piriform.com,Global
 HOST-SUFFIX,piring.com,Global
 HOST-SUFFIX,pise.pw,Global
@@ -21470,6 +21478,8 @@ HOST-SUFFIX,ptbtm.com,Global
 HOST-SUFFIX,pts.org.tw,Global
 HOST-SUFFIX,ptt.cc,Global
 HOST-SUFFIX,ptt.com,Global
+HOST-SUFFIX,ptt2.cc,Global
+HOST-SUFFIX,ptt3.cc,Global
 HOST-SUFFIX,pttgame.com,Global
 HOST-SUFFIX,pttgopolitics.com,Global
 HOST-SUFFIX,pttvan.org,Global
@@ -25264,6 +25274,7 @@ HOST-SUFFIX,torrenty.org,Global
 HOST-SUFFIX,torrentz.eu,Global
 HOST-SUFFIX,torrentz2.eu,Global
 HOST-SUFFIX,torrentz2.is,Global
+HOST-SUFFIX,torrindex.net,Global
 HOST-SUFFIX,torss.cf,Global
 HOST-SUFFIX,torvpn.com,Global
 HOST-SUFFIX,toshiba,Global
@@ -27177,6 +27188,8 @@ HOST-SUFFIX,wangruowang.org,Global
 HOST-SUFFIX,wannaflix.com,Global
 HOST-SUFFIX,wanokokorosoh.com,Global
 HOST-SUFFIX,want-daily.com,Global
+HOST-SUFFIX,want-media.com,Global
+HOST-SUFFIX,wantblogger.com,Global
 HOST-SUFFIX,wanyepu.com,Global
 HOST-SUFFIX,wanz-factory.com,Global
 HOST-SUFFIX,wap.xinbao6.net,Global
@@ -28223,7 +28236,6 @@ HOST-SUFFIX,www.482t.com,Global
 HOST-SUFFIX,www.494hu.com,Global
 HOST-SUFFIX,www.4bc.cc,Global
 HOST-SUFFIX,www.4bc.com.au,Global
-HOST-SUFFIX,www.4gtv.tv,Global
 HOST-SUFFIX,www.4hu.com,Global
 HOST-SUFFIX,www.4hu54.com,Global
 HOST-SUFFIX,www.4hu55.com,Global
@@ -33483,6 +33495,7 @@ HOST-SUFFIX,zuola.com,Global
 HOST-SUFFIX,zurama.ru,Global
 HOST-SUFFIX,zvereff.com,Global
 HOST-SUFFIX,zw,Global
+HOST-SUFFIX,zwtvusa.com,Global
 HOST-SUFFIX,zx-fly.com,Global
 HOST-SUFFIX,zyd.jygweb.org,Global
 HOST-SUFFIX,zynaima.com,Global

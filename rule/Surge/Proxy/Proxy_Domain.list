@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-25 02:07:37
+# UPDATED: 2021-09-27 02:08:52
 # DOMAIN: 47
-# DOMAIN-SUFFIX: 33494
+# DOMAIN-SUFFIX: 33507
 # USER-AGENT: 11
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 33672
+# TOTAL: 33685
 amp.akamaized.net
 api-p.videomarket.jp
 apple.com.akadns.net
@@ -1340,6 +1340,7 @@ www-cdn.icloud.com.akadns.net
 .4everproxy.com
 .4freemam.myfw.us
 .4freeproxy.com
+.4gtv.tv
 .4irc.com
 .4jok.com
 .4musclemen.com
@@ -1495,7 +1496,6 @@ www-cdn.icloud.com.akadns.net
 .54647.global
 .54647.io
 .54647.online
-.54647.org
 .54647.xyz
 .546990.com
 .5482562.com
@@ -3676,6 +3676,7 @@ www-cdn.icloud.com.akadns.net
 .api1.sg8888.ws
 .api17tp.apitilt.com
 .apiary.io
+.apibay.org
 .apic.pinnacle.com
 .apigame.yunbo11.com
 .apigame.yunbo333.com
@@ -5085,6 +5086,7 @@ www-cdn.icloud.com.akadns.net
 .benchworkforce.com.au
 .benditabreja.com.br
 .benjibot.xyz
+.benliton.com
 .bennyp.net
 .bentley
 .bentobox.tv
@@ -7475,6 +7477,8 @@ www-cdn.icloud.com.akadns.net
 .ck.spacetechnology.net
 .ck10019.cc
 .ck101.com
+.ckcdn.com
+.ckck.fun
 .ckw77.com
 .cl
 .cl.eye.rs
@@ -16388,6 +16392,7 @@ www-cdn.icloud.com.akadns.net
 .lecanardenchaine.fr
 .leclerc
 .lecloud.net
+.lecoin.cc
 .lede-project.org
 .ledongzhibo111.com
 .ledongzhibo1111.com
@@ -16878,6 +16883,7 @@ www-cdn.icloud.com.akadns.net
 .lovemov.cc
 .lovemyanime.net
 .loveofkuanyin.com
+.loveparents.org
 .lovesexdurex.com
 .lovethiscity.com
 .lovetibet.ti-da.net
@@ -19673,6 +19679,7 @@ www-cdn.icloud.com.akadns.net
 .ny1.com
 .nyaa.com
 .nyaa.eu
+.nyaa.net
 .nyaa.si
 .nyahentai.com
 .nyam1380.com
@@ -20862,6 +20869,7 @@ www-cdn.icloud.com.akadns.net
 .piratebayproxy.co
 .piratebrowser.com
 .piratelist.org
+.pirates-forum.org
 .piriform.com
 .piring.com
 .pise.pw
@@ -21467,6 +21475,8 @@ www-cdn.icloud.com.akadns.net
 .pts.org.tw
 .ptt.cc
 .ptt.com
+.ptt2.cc
+.ptt3.cc
 .pttgame.com
 .pttgopolitics.com
 .pttvan.org
@@ -25261,6 +25271,7 @@ www-cdn.icloud.com.akadns.net
 .torrentz.eu
 .torrentz2.eu
 .torrentz2.is
+.torrindex.net
 .torss.cf
 .torvpn.com
 .toshiba
@@ -27176,6 +27187,8 @@ www-cdn.icloud.com.akadns.net
 .wannaflix.com
 .wanokokorosoh.com
 .want-daily.com
+.want-media.com
+.wantblogger.com
 .wanyepu.com
 .wanz-factory.com
 .wap.xinbao6.net
@@ -28224,7 +28237,6 @@ www-cdn.icloud.com.akadns.net
 .www.494hu.com
 .www.4bc.cc
 .www.4bc.com.au
-.www.4gtv.tv
 .www.4hu.com
 .www.4hu54.com
 .www.4hu55.com
@@ -33493,6 +33505,7 @@ www-cdn.icloud.com.akadns.net
 .zurama.ru
 .zvereff.com
 .zw
+.zwtvusa.com
 .zx-fly.com
 .zyd.jygweb.org
 .zynaima.com

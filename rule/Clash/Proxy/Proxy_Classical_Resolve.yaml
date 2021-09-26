@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-25 02:07:38
+# UPDATED: 2021-09-27 02:08:54
 # DOMAIN: 47
-# DOMAIN-SUFFIX: 33494
+# DOMAIN-SUFFIX: 33507
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 33661
+# TOTAL: 33674
 payload:
   - DOMAIN,amp.akamaized.net
   - DOMAIN,api-p.videomarket.jp
@@ -1340,6 +1340,7 @@ payload:
   - DOMAIN-SUFFIX,4everproxy.com
   - DOMAIN-SUFFIX,4freemam.myfw.us
   - DOMAIN-SUFFIX,4freeproxy.com
+  - DOMAIN-SUFFIX,4gtv.tv
   - DOMAIN-SUFFIX,4irc.com
   - DOMAIN-SUFFIX,4jok.com
   - DOMAIN-SUFFIX,4musclemen.com
@@ -1495,7 +1496,6 @@ payload:
   - DOMAIN-SUFFIX,54647.global
   - DOMAIN-SUFFIX,54647.io
   - DOMAIN-SUFFIX,54647.online
-  - DOMAIN-SUFFIX,54647.org
   - DOMAIN-SUFFIX,54647.xyz
   - DOMAIN-SUFFIX,546990.com
   - DOMAIN-SUFFIX,5482562.com
@@ -3676,6 +3676,7 @@ payload:
   - DOMAIN-SUFFIX,api1.sg8888.ws
   - DOMAIN-SUFFIX,api17tp.apitilt.com
   - DOMAIN-SUFFIX,apiary.io
+  - DOMAIN-SUFFIX,apibay.org
   - DOMAIN-SUFFIX,apic.pinnacle.com
   - DOMAIN-SUFFIX,apigame.yunbo11.com
   - DOMAIN-SUFFIX,apigame.yunbo333.com
@@ -5085,6 +5086,7 @@ payload:
   - DOMAIN-SUFFIX,benchworkforce.com.au
   - DOMAIN-SUFFIX,benditabreja.com.br
   - DOMAIN-SUFFIX,benjibot.xyz
+  - DOMAIN-SUFFIX,benliton.com
   - DOMAIN-SUFFIX,bennyp.net
   - DOMAIN-SUFFIX,bentley
   - DOMAIN-SUFFIX,bentobox.tv
@@ -7475,6 +7477,8 @@ payload:
   - DOMAIN-SUFFIX,ck.spacetechnology.net
   - DOMAIN-SUFFIX,ck10019.cc
   - DOMAIN-SUFFIX,ck101.com
+  - DOMAIN-SUFFIX,ckcdn.com
+  - DOMAIN-SUFFIX,ckck.fun
   - DOMAIN-SUFFIX,ckw77.com
   - DOMAIN-SUFFIX,cl
   - DOMAIN-SUFFIX,cl.eye.rs
@@ -16388,6 +16392,7 @@ payload:
   - DOMAIN-SUFFIX,lecanardenchaine.fr
   - DOMAIN-SUFFIX,leclerc
   - DOMAIN-SUFFIX,lecloud.net
+  - DOMAIN-SUFFIX,lecoin.cc
   - DOMAIN-SUFFIX,lede-project.org
   - DOMAIN-SUFFIX,ledongzhibo111.com
   - DOMAIN-SUFFIX,ledongzhibo1111.com
@@ -16878,6 +16883,7 @@ payload:
   - DOMAIN-SUFFIX,lovemov.cc
   - DOMAIN-SUFFIX,lovemyanime.net
   - DOMAIN-SUFFIX,loveofkuanyin.com
+  - DOMAIN-SUFFIX,loveparents.org
   - DOMAIN-SUFFIX,lovesexdurex.com
   - DOMAIN-SUFFIX,lovethiscity.com
   - DOMAIN-SUFFIX,lovetibet.ti-da.net
@@ -19673,6 +19679,7 @@ payload:
   - DOMAIN-SUFFIX,ny1.com
   - DOMAIN-SUFFIX,nyaa.com
   - DOMAIN-SUFFIX,nyaa.eu
+  - DOMAIN-SUFFIX,nyaa.net
   - DOMAIN-SUFFIX,nyaa.si
   - DOMAIN-SUFFIX,nyahentai.com
   - DOMAIN-SUFFIX,nyam1380.com
@@ -20862,6 +20869,7 @@ payload:
   - DOMAIN-SUFFIX,piratebayproxy.co
   - DOMAIN-SUFFIX,piratebrowser.com
   - DOMAIN-SUFFIX,piratelist.org
+  - DOMAIN-SUFFIX,pirates-forum.org
   - DOMAIN-SUFFIX,piriform.com
   - DOMAIN-SUFFIX,piring.com
   - DOMAIN-SUFFIX,pise.pw
@@ -21467,6 +21475,8 @@ payload:
   - DOMAIN-SUFFIX,pts.org.tw
   - DOMAIN-SUFFIX,ptt.cc
   - DOMAIN-SUFFIX,ptt.com
+  - DOMAIN-SUFFIX,ptt2.cc
+  - DOMAIN-SUFFIX,ptt3.cc
   - DOMAIN-SUFFIX,pttgame.com
   - DOMAIN-SUFFIX,pttgopolitics.com
   - DOMAIN-SUFFIX,pttvan.org
@@ -25261,6 +25271,7 @@ payload:
   - DOMAIN-SUFFIX,torrentz.eu
   - DOMAIN-SUFFIX,torrentz2.eu
   - DOMAIN-SUFFIX,torrentz2.is
+  - DOMAIN-SUFFIX,torrindex.net
   - DOMAIN-SUFFIX,torss.cf
   - DOMAIN-SUFFIX,torvpn.com
   - DOMAIN-SUFFIX,toshiba
@@ -27176,6 +27187,8 @@ payload:
   - DOMAIN-SUFFIX,wannaflix.com
   - DOMAIN-SUFFIX,wanokokorosoh.com
   - DOMAIN-SUFFIX,want-daily.com
+  - DOMAIN-SUFFIX,want-media.com
+  - DOMAIN-SUFFIX,wantblogger.com
   - DOMAIN-SUFFIX,wanyepu.com
   - DOMAIN-SUFFIX,wanz-factory.com
   - DOMAIN-SUFFIX,wap.xinbao6.net
@@ -28224,7 +28237,6 @@ payload:
   - DOMAIN-SUFFIX,www.494hu.com
   - DOMAIN-SUFFIX,www.4bc.cc
   - DOMAIN-SUFFIX,www.4bc.com.au
-  - DOMAIN-SUFFIX,www.4gtv.tv
   - DOMAIN-SUFFIX,www.4hu.com
   - DOMAIN-SUFFIX,www.4hu54.com
   - DOMAIN-SUFFIX,www.4hu55.com
@@ -33493,6 +33505,7 @@ payload:
   - DOMAIN-SUFFIX,zurama.ru
   - DOMAIN-SUFFIX,zvereff.com
   - DOMAIN-SUFFIX,zw
+  - DOMAIN-SUFFIX,zwtvusa.com
   - DOMAIN-SUFFIX,zx-fly.com
   - DOMAIN-SUFFIX,zyd.jygweb.org
   - DOMAIN-SUFFIX,zynaima.com
