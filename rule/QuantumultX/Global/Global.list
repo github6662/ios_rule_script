@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-28 02:10:21
-# HOST: 52
-# HOST-SUFFIX: 33503
+# UPDATED: 2021-09-29 02:08:29
+# HOST: 53
+# HOST-SUFFIX: 33507
 # USER-AGENT: 48
 # HOST-KEYWORD: 41
 # IP-CIDR: 128
 # IP6-CIDR: 3
-# TOTAL: 33775
+# TOTAL: 33780
 HOST,amp.akamaized.net,Global
 HOST,api-p.videomarket.jp,Global
 HOST,apple.com.akadns.net,Global
@@ -44,6 +44,7 @@ HOST,mwf-service.akamaized.net,Global
 HOST,opgg-static.akamaized.net,Global
 HOST,p-events-delivery.akamaized.net,Global
 HOST,p16-tiktokcdn-com.akamaized.net,Global
+HOST,pchomeonline.com.tw,Global
 HOST,prd-priconne-redive.akamaized.net,Global
 HOST,push-apple.com.akadns.net,Global
 HOST,statics-marketingsites-eus-ms-com.akamaized.net,Global
@@ -3496,6 +3497,7 @@ HOST-SUFFIX,amzn.com,Global
 HOST-SUFFIX,amznl.com,Global
 HOST-SUFFIX,an,Global
 HOST-SUFFIX,an.1x.net,Global
+HOST-SUFFIX,anaconda.cloud,Global
 HOST-SUFFIX,anaconda.com,Global
 HOST-SUFFIX,anaconda.org,Global
 HOST-SUFFIX,anakinweb.com,Global
@@ -12482,7 +12484,9 @@ HOST-SUFFIX,gog-statics.com,Global
 HOST-SUFFIX,gog.com,Global
 HOST-SUFFIX,goge.ml,Global
 HOST-SUFFIX,gogle.com,Global
+HOST-SUFFIX,gogo-load.com,Global
 HOST-SUFFIX,gogo2sex.com,Global
+HOST-SUFFIX,gogocdn.net,Global
 HOST-SUFFIX,gogole.com,Global
 HOST-SUFFIX,gogotunnel.com,Global
 HOST-SUFFIX,gohappy.com.tw,Global
@@ -18732,6 +18736,7 @@ HOST-SUFFIX,mypearson.com,Global
 HOST-SUFFIX,mypearsonenglish.ch,Global
 HOST-SUFFIX,mypets.ws,Global
 HOST-SUFFIX,mypicture.info,Global
+HOST-SUFFIX,mypikpak.com,Global
 HOST-SUFFIX,myplan.powayusd.com,Global
 HOST-SUFFIX,mypop3.net,Global
 HOST-SUFFIX,mypop3.org,Global
