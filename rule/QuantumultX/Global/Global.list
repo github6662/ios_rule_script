@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-29 02:08:29
+# UPDATED: 2021-10-01 02:08:45
 # HOST: 53
-# HOST-SUFFIX: 33507
+# HOST-SUFFIX: 33508
 # USER-AGENT: 48
 # HOST-KEYWORD: 41
 # IP-CIDR: 128
 # IP6-CIDR: 3
-# TOTAL: 33780
+# TOTAL: 33781
 HOST,amp.akamaized.net,Global
 HOST,api-p.videomarket.jp,Global
 HOST,apple.com.akadns.net,Global
@@ -3023,6 +3023,7 @@ HOST-SUFFIX,ai-wen.net,Global
 HOST-SUFFIX,ai.google,Global
 HOST-SUFFIX,ai780.com,Global
 HOST-SUFFIX,aibaobei.me,Global
+HOST-SUFFIX,aicoin.com,Global
 HOST-SUFFIX,aig,Global
 HOST-SUFFIX,aigo,Global
 HOST-SUFFIX,aikeji.tk,Global

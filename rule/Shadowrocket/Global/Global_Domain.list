@@ -1,15 +1,15 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-29 02:08:31
+# UPDATED: 2021-10-01 02:08:47
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 53
-# DOMAIN-SUFFIX: 33507
+# DOMAIN-SUFFIX: 33508
 # USER-AGENT: 48
 # DOMAIN-KEYWORD: 41
 # IP-CIDR: 128
 # URL-REGEX: 1
-# TOTAL: 33778
+# TOTAL: 33779
 amp.akamaized.net
 api-p.videomarket.jp
 apple.com.akadns.net
@@ -3024,6 +3024,7 @@ www.icloud.com
 .ai.google
 .ai780.com
 .aibaobei.me
+.aicoin.com
 .aig
 .aigo
 .aikeji.tk
