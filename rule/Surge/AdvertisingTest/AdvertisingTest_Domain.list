@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-01 02:08:45
+# UPDATED: 2021-10-02 02:07:35
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 15250
+# DOMAIN: 15252
 # DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 82512
+# DOMAIN-SUFFIX: 82540
 # IP-CIDR: 253
 # IP-CIDR6: 1
 # URL-REGEX: 301
-# TOTAL: 98405
+# TOTAL: 98435
 0001.2waky.com
 000lk3v.wcomhost.com
 000lkub.rcomhost.com
@@ -432,6 +432,7 @@ a1thumbpost.com
 a1trafficticketdefense.com
 a2.hotpornfile.org
 a2.huiqituan.com
+a2.ym193.com
 a2132959.0lx.net
 a2a.lockerz.com
 a2af4f04914ed298.com
@@ -3456,7 +3457,6 @@ click.dji.com
 click.e.juiceplus.com
 click.email.active.com
 click.gospect.com
-click.hay3s.com
 click.inplayable.com
 click.interactivebrands.com
 click.khingtracking.com
@@ -4007,6 +4007,7 @@ cycling.unbounce.com
 cyclonedieselpower.com
 cye-fscp.com
 cylm.jh56.cn
+cyousoft.com
 cypgroup.com
 cypher-lab.com
 czas-na-fb.blogspot.com
@@ -6155,6 +6156,7 @@ get-avast.com
 get-cracked.com
 get-free-traffic-now.com
 get-hack.com
+get-quadcleaner.com
 get.apptimize.com
 get.setheo.com
 get.unbounce.com
@@ -9016,6 +9018,7 @@ minecraftfreeacc.com
 minecraftgen.com
 minecraftget.com
 minecrafthostingforfree.com
+minecraftpromotions.com
 minevinc.com
 mingxinjj.com
 mingxuanhl.com
@@ -14248,7 +14251,6 @@ warfacco.com
 warioland.com
 warnawira.com
 warneracademy.com
-warthunderhack.com
 warwickvalleyliving.com
 waschbankcraft.org
 washington.j8inn1zektoe.com
@@ -14592,7 +14594,6 @@ wwe2k14key.dlcodes.com
 wwfsable.com
 www-gemini.com
 www-googletagmanager.l.google.com
-www-myetherwallet.com
 www.0uk.net
 www.3peaks.co.jp
 www.actiagroup.com
@@ -14858,7 +14859,6 @@ xhacked.com
 xhamstertube.com
 xhqsysp.com
 xhvhisywkvha.com
-xiamenoa.com
 xiamiss.wap.xsbiquge.com
 xianyicao.net
 xiaocen.com
@@ -15066,6 +15066,7 @@ yourfreeflatscreen.com
 yourfreegamesnow.com
 yourfreehacks.com
 yourfreehdtv.com
+yourfreeipadmini.com
 yourfreeiphone.com
 yourfreeistuff.com
 yourfreenetbook.com
@@ -15131,6 +15132,7 @@ z-na.amazon-adsystems.com
 z.dwchaha.com
 z1.news-subscribe.com
 z33y.notifychheck.com
+z4yp9a.qygs08.cn
 za-music.mymobiplanet.com
 zagamers.com
 zahrachem.com
@@ -16822,6 +16824,7 @@ zzz.clickbank.net
 .4tnui5r06j62.com
 .4u.pl
 .4wad.com
+.4wens.org
 .4wnet.com
 .4wnetwork.com
 .4x9te.cn
@@ -17341,6 +17344,7 @@ zzz.clickbank.net
 .7116966.com
 .711983.com
 .711kk.com
+.71213zhazha.com
 .712e2a170bb3.com
 .716703.com
 .71692fai4cc0.com
@@ -18389,6 +18393,7 @@ zzz.clickbank.net
 .a04296f070c0146f314d-0dcad72565cb350972beb3666a86f246.r50.cf5.rackcdn.com
 .a0675c1160de6c6.com
 .a06bbd98194c252.com
+.a0a18dc255.1772c9ffd2.com
 .a0b11.com
 .a0b22.com
 .a0b33.com
@@ -19759,7 +19764,6 @@ zzz.clickbank.net
 .ad.nozonedata.com
 .ad.nttnavi.co.jp
 .ad.ntvmsnbc.com
-.ad.nwi.jp
 .ad.nwt.cz
 .ad.obuy.tw
 .ad.ohmyad.co
@@ -21388,6 +21392,7 @@ zzz.clickbank.net
 .ads-union.jd.com
 .ads-v-darwin.hulustream.com
 .ads-web.mail.com
+.ads-website.ytsservice.com
 .ads-wordego.azureedge.net
 .ads.123net.jp
 .ads.1mobile.com
@@ -24518,6 +24523,7 @@ zzz.clickbank.net
 .aiea6gaza.com
 .aifei.info
 .aifei0755.net
+.aifenka.cn
 .aifoosty.net
 .aifu-pay.com
 .aiggkj.cn
@@ -31684,6 +31690,7 @@ zzz.clickbank.net
 .caiteesh.net
 .caithamo.net
 .caiwanhui.top
+.caiwuwang.ltd
 .caiyifz.com
 .caiziwuyou.com
 .cajkov.ru
@@ -40453,6 +40460,7 @@ zzz.clickbank.net
 .e.zvfuka.cn
 .e0663490cca0296f7.com
 .e0a42e1a21669b.com
+.e0hkzk2.cn
 .e0n.cn
 .e13085e58935e6.com
 .e18a97eee94d0f2519.com
@@ -43141,6 +43149,7 @@ zzz.clickbank.net
 .fadedprofit.com
 .fadedsnow.com
 .fadewallwine.com
+.fadewaves.com
 .fadi7apress.com
 .fadian.xin
 .fadingamplify.com
@@ -47592,6 +47601,7 @@ zzz.clickbank.net
 .guardiandigitalcomparison.co.uk
 .guardnotes.com
 .guardssentinelcreepy.com
+.guasim.top
 .gubagootracking.com
 .guckawoh.net
 .gudangbanner.com
@@ -47951,6 +47961,7 @@ zzz.clickbank.net
 .haiwai-ic.ksosoft.com
 .haiwengji.net
 .haixiaqy.com
+.haixingou.shop
 .haiyinsiwang.com
 .haiyunimg.com
 .haiyunpush.com
@@ -49196,6 +49207,7 @@ zzz.clickbank.net
 .homenick.biz
 .homepageking.de
 .homesicktitanic.com
+.hometownlow.com
 .homewares.org
 .homeyloanedmes.work
 .homify.com.mx
@@ -52873,6 +52885,7 @@ zzz.clickbank.net
 .jhf2e.cn
 .jhgff23az.biqugetv.com
 .jhhlhneavuo.com
+.jhlxfw.cn
 .jhm3.ifgexecutive.com
 .jhnmpm.kiwoko.com
 .jhondi33.duckdns.org
@@ -55619,6 +55632,7 @@ zzz.clickbank.net
 .leixigroup.com
 .leixjun.com
 .lejieti.com
+.lejlb.com
 .leju.sina.com.cn
 .lejuliang.com
 .lejuyoujia2019.com
@@ -55909,6 +55923,7 @@ zzz.clickbank.net
 .lidebo.com
 .lidicando.com
 .lidjetsyak.com
+.lidongyang.shop
 .lidplay.net
 .lidsfoalliving.com
 .lie2anyone.com
@@ -59913,6 +59928,7 @@ zzz.clickbank.net
 .me.networkandfaces.com
 .me0715.top
 .me1294hlx.com
+.me390.life
 .me99.club
 .meadigital.com
 .meadowleader.com
@@ -63961,6 +63977,7 @@ zzz.clickbank.net
 .near-back.com
 .near-fast.com
 .nearbyad.com
+.nearestaxe.com
 .neathsmik.top
 .neatstats.com
 .nebabrop.com
@@ -64734,6 +64751,7 @@ zzz.clickbank.net
 .nization.com
 .nj.5.p2l.info
 .nj.t.bcsp2p.baidu.com
+.njaeqjx.com
 .njavespitful.casa
 .njcengpianwang.cn
 .njcyfpv.cn
@@ -65899,6 +65917,7 @@ zzz.clickbank.net
 .ocd.yodo1api.com
 .ocdnmq.com
 .oceanbot-steam.com
+.oceanbreezecarlsbad.com
 .oceanwebcraft.com
 .ocelot.pixlwebs.nl
 .ocelot.studio
@@ -71223,6 +71242,7 @@ zzz.clickbank.net
 .pubsub02.oray.net
 .pubtech.ai
 .pubted.com
+.pubwes.com
 .pubwise.io
 .pubxtag1.com
 .pudalz.gismeteo.by
@@ -74041,6 +74061,7 @@ zzz.clickbank.net
 .rktch.com
 .rktu.com
 .rkyijdrys.com
+.rl-yh.com
 .rl.go2yd.com
 .rl.heise.de
 .rl7944.ru
@@ -77976,6 +77997,7 @@ zzz.clickbank.net
 .sloppyearthquake.com
 .slot-888.ru
 .slout.top
+.slowerwave.cyou
 .slowmac.tech
 .slowmacfaster.trade
 .slowpoker.ru
@@ -79880,6 +79902,7 @@ zzz.clickbank.net
 .sodovn.net
 .sodud.com
 .sofhoursdoin.biz
+.sofinpushpile.com
 .sofire.baidu.com
 .sofire.bdstatic.com
 .soflopxl.com
@@ -83397,6 +83420,7 @@ zzz.clickbank.net
 .sxcol.cn
 .sxcwycsbhte.com
 .sxdanke.cn
+.sxdech.cn
 .sxdnserror1.wo.com.cn
 .sxdnserror2.wo.com.cn
 .sxdnserror3.wo.com.cn
@@ -84932,6 +84956,7 @@ zzz.clickbank.net
 .thauftoa.net
 .thautsie.net
 .thaveksi.net
+.thawheek.com
 .the-adblocker.website
 .the-adult-company.com
 .the-binary-trader.biz
@@ -85286,6 +85311,7 @@ zzz.clickbank.net
 .tickles.co.uk
 .tickles.ie
 .ticklesign.com
+.tickmatureparties.com
 .ticksel.com
 .ticktockhealth.com
 .ticrite.com
@@ -85609,6 +85635,7 @@ zzz.clickbank.net
 .tlgr-me.org
 .tlgvoeeuhxsd.com
 .tljivh.com
+.tll54g7.cn
 .tlmybj.cn
 .tlocatering.club
 .tlootas.org
@@ -85645,6 +85672,7 @@ zzz.clickbank.net
 .tmmjgcp.cn
 .tmmp.io
 .tmnlsmvgrkoj.com
+.tmov.asia
 .tmozs.com
 .tmpclk.com
 .tmqhw.us
@@ -88941,6 +88969,7 @@ zzz.clickbank.net
 .uhijmv.cn
 .uhkdsplo.com
 .uhm26jyr11zv.www.freecodecamp.org
+.uhmevofiatnjg.xyz
 .uhodsplo.com
 .uhor8.cn
 .uhpdsplo.com
@@ -97334,6 +97363,7 @@ zzz.clickbank.net
 .zlink8.com
 .zlinkm.com
 .zlinkv.com
+.zllnb.top
 .zln44.cn
 .zlne800.com
 .zlog.mp3.zing.vn
