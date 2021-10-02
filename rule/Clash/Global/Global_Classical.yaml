@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-01 02:08:47
+# UPDATED: 2021-10-03 02:07:32
 # DOMAIN: 53
-# DOMAIN-SUFFIX: 33508
+# DOMAIN-SUFFIX: 33509
 # DOMAIN-KEYWORD: 41
 # IP-CIDR: 128
 # IP-CIDR6: 3
 # PROCESS-NAME: 1
-# TOTAL: 33734
+# TOTAL: 33735
 payload:
   - DOMAIN,amp.akamaized.net
   - DOMAIN,api-p.videomarket.jp
@@ -9865,6 +9865,7 @@ payload:
   - DOMAIN-SUFFIX,egghead.io
   - DOMAIN-SUFFIX,egotastic.com
   - DOMAIN-SUFFIX,egrnaa.lotcai.com
+  - DOMAIN-SUFFIX,egta.com
   - DOMAIN-SUFFIX,eh
   - DOMAIN-SUFFIX,ehentai.org
   - DOMAIN-SUFFIX,ehgt.org
@@ -16901,6 +16902,7 @@ payload:
   - DOMAIN-SUFFIX,lovemyanime.net
   - DOMAIN-SUFFIX,loveofkuanyin.com
   - DOMAIN-SUFFIX,loveparents.org
+  - DOMAIN-SUFFIX,loverslab.com
   - DOMAIN-SUFFIX,lovesexdurex.com
   - DOMAIN-SUFFIX,lovethiscity.com
   - DOMAIN-SUFFIX,lovetibet.ti-da.net
@@ -30487,7 +30489,6 @@ payload:
   - DOMAIN-SUFFIX,www.losescotesdealicia.com
   - DOMAIN-SUFFIX,www.lotoo.com.tw
   - DOMAIN-SUFFIX,www.lottobao.com
-  - DOMAIN-SUFFIX,www.loverslab.com
   - DOMAIN-SUFFIX,www.lrt.lt
   - DOMAIN-SUFFIX,www.ls556.com
   - DOMAIN-SUFFIX,www.ls663.com

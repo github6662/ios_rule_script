@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-09-29 02:08:29
+# UPDATED: 2021-10-03 02:07:30
 # HOST: 49
-# HOST-SUFFIX: 33521
+# HOST-SUFFIX: 33522
 # USER-AGENT: 11
 # HOST-KEYWORD: 29
 # IP-CIDR: 88
 # IP6-CIDR: 3
-# TOTAL: 33701
+# TOTAL: 33702
 HOST,amp.akamaized.net,Proxy
 HOST,api-p.videomarket.jp,Proxy
 HOST,apple.com.akadns.net,Proxy
@@ -9862,6 +9862,7 @@ HOST-SUFFIX,eggc111.com,Proxy
 HOST-SUFFIX,egghead.io,Proxy
 HOST-SUFFIX,egotastic.com,Proxy
 HOST-SUFFIX,egrnaa.lotcai.com,Proxy
+HOST-SUFFIX,egta.com,Proxy
 HOST-SUFFIX,eh,Proxy
 HOST-SUFFIX,ehentai.org,Proxy
 HOST-SUFFIX,ehgt.org,Proxy
@@ -16894,6 +16895,7 @@ HOST-SUFFIX,lovemov.cc,Proxy
 HOST-SUFFIX,lovemyanime.net,Proxy
 HOST-SUFFIX,loveofkuanyin.com,Proxy
 HOST-SUFFIX,loveparents.org,Proxy
+HOST-SUFFIX,loverslab.com,Proxy
 HOST-SUFFIX,lovesexdurex.com,Proxy
 HOST-SUFFIX,lovethiscity.com,Proxy
 HOST-SUFFIX,lovetibet.ti-da.net,Proxy
@@ -30491,7 +30493,6 @@ HOST-SUFFIX,www.lopinion.fr,Proxy
 HOST-SUFFIX,www.losescotesdealicia.com,Proxy
 HOST-SUFFIX,www.lotoo.com.tw,Proxy
 HOST-SUFFIX,www.lottobao.com,Proxy
-HOST-SUFFIX,www.loverslab.com,Proxy
 HOST-SUFFIX,www.lrt.lt,Proxy
 HOST-SUFFIX,www.ls556.com,Proxy
 HOST-SUFFIX,www.ls663.com,Proxy

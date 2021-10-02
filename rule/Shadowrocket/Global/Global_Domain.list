@@ -1,15 +1,15 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-01 02:08:47
+# UPDATED: 2021-10-03 02:07:32
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 53
-# DOMAIN-SUFFIX: 33508
+# DOMAIN-SUFFIX: 33509
 # USER-AGENT: 48
 # DOMAIN-KEYWORD: 41
 # IP-CIDR: 128
 # URL-REGEX: 1
-# TOTAL: 33779
+# TOTAL: 33780
 amp.akamaized.net
 api-p.videomarket.jp
 apple.com.akadns.net
@@ -9865,6 +9865,7 @@ www.icloud.com
 .egghead.io
 .egotastic.com
 .egrnaa.lotcai.com
+.egta.com
 .eh
 .ehentai.org
 .ehgt.org
@@ -16901,6 +16902,7 @@ www.icloud.com
 .lovemyanime.net
 .loveofkuanyin.com
 .loveparents.org
+.loverslab.com
 .lovesexdurex.com
 .lovethiscity.com
 .lovetibet.ti-da.net
@@ -30487,7 +30489,6 @@ www.icloud.com
 .www.losescotesdealicia.com
 .www.lotoo.com.tw
 .www.lottobao.com
-.www.loverslab.com
 .www.lrt.lt
 .www.ls556.com
 .www.ls663.com
